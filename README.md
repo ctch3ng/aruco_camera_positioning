@@ -31,9 +31,9 @@ python -m ipykernel install --user --name=aruco-camera-positioning --display-nam
 **4. Download the Project Files
 - Clone or download this repository (or just the specific files you need):
 
-- `Camera_Position.ipynb` (the main notebook)
-- `mtx.npy` and `dist.npy` (camera calibration files)
-- Make sure these files are in a folder you can easily access.
+  - `Camera_Position.ipynb` (the main notebook)
+  - `mtx.npy` and `dist.npy` (camera calibration files)
+  - Make sure these files are in a folder you can easily access.
 
 **5. Open the Notebook and Select the Kernel
 - In the Jupyter interface, navigate to the folder where you downloaded `Camera_Position.ipynb`.
@@ -43,6 +43,6 @@ python -m ipykernel install --user --name=aruco-camera-positioning --display-nam
 **6. Run the Notebook
 - Execute each cell in order to:
 
--- Display the generated ArUco marker
--- Capture and process video frames
--- Estimate the camera pose with respect to the ArUco marker
+  - Display the generated ArUco marker
+  - Capture and process video frames
+  - Estimate the camera pose with respect to the ArUco marker
