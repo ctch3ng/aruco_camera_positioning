@@ -1,4 +1,9 @@
-# aruco_camera_positioning
+# ArUco Camera Positioning
+
+## Acknowledgements
+This project is adapted from the original work by [naryua]([https://github.com/TiffinTech/posture-corrector](https://github.com/naruya/aruco/tree/master)). The modifications include OpenCV function names updates and enhanced documentation for deployment in a virtual environment.
+
+
 
 ## Prerequisites
 [Anaconda](https://www.anaconda.com/) should be installed on your system.
