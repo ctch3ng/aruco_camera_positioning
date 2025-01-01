@@ -43,6 +43,6 @@ python -m ipykernel install --user --name=aruco-camera-positioning --display-nam
 **6. Run the Notebook
 - Execute each cell in order to:
 
-- Display the generated ArUco marker
-- Capture and process video frames
-- Estimate the camera pose with respect to the ArUco marker
+-- Display the generated ArUco marker
+-- Capture and process video frames
+-- Estimate the camera pose with respect to the ArUco marker
