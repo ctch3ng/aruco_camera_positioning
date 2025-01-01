@@ -15,7 +15,7 @@ conda activate aruco-camera-positioning
 **2. Install Required Packages**
 - Install the necessary dependencies
 ```bash
-pip install opencv-python numpy matplotlib moviepy tqdm ipython
+pip install opencv-python numpy matplotlib moviepy tqdm ipython ipykernel
 ```
 
 **3. Configure IPython Kernel for Jupyter Notebook (If you plan to use Jupyter Notebook)**
